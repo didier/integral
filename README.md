@@ -1,3 +1,5 @@
+![Integral banner](/static/cover.svg)
+
 # Integral
 
 _Unstyled, composable and accessible Svelte components_
@@ -20,14 +22,14 @@ The main goal for this project is to create accessible-by-default components, be
 
 ```html
 <script>
-	import { Tab, Tabs } from 'svelte-integral'
-	/* Supports SSR by default! No `svelte-integral/src/lib/Tabs.svelte` nonsense. */
+  /* Supports SSR by default! No `svelte-integral/src/lib/Tabs.svelte` nonsense. */
+  import { Tab, Tabs } from 'svelte-integral'
 </script>
 
 <Tabs>
-	<Tab title="One">I'm the first tab, so I'm being shown by default.</Tab>
-	<Tab title="Two">Hey! I'm number two, now back to you!</Tab>
-	<Tab title="Three">Number three, look at me!</Tab>
-	<Tab title="Four">Four. What's more?</Tab>
+  <Tab title="One">I'm the first tab, so I'm being shown by default.</Tab>
+  <Tab title="Two">Hey! I'm number two, now back to you!</Tab>
+  <Tab title="Three">Number three, look at me!</Tab>
+  <Tab title="Four">Four. What's more?</Tab>
 </Tabs>
 ```
