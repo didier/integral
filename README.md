@@ -28,6 +28,8 @@ yarn add -D svelte-integral
 
 ## Usage
 
+### `Tabs`
+
 ```html
 <script>
   /* Supports SSR by default! No `svelte-integral/src/lib/Tabs.svelte` nonsense. */
@@ -41,6 +43,8 @@ yarn add -D svelte-integral
   <Tab title="Four">Four. What's more?</Tab>
 </Tabs>
 ```
+
+### `Modal`
 
 ```html
 <script>
