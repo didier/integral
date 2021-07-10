@@ -1,7 +1,6 @@
 <script>
-	import Example from '$lib/demo/Example.svelte'
-	import { Tab, Tabs } from '$lib/index'
-	import Modal from '$lib/Modal.svelte'
+	import Example from '$lib/_demo/Example.svelte'
+	import { Tab, Tabs, Modal } from '$lib/index'
 
 	let showModal = false
 </script>
