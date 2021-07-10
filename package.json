@@ -1,6 +1,16 @@
 {
-	"name": "integral",
+	"name": "integral-svelte",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/didier/integral.git"
+	},
+	"author": "Didier Catz <info@didiercatz.com> (https://didiercatz.com)",
+	"license": "ISC",
+	"homepage": "https://github.com/didier/integral",
+	"bugs": {
+		"url": "https://github.com/didier/integral/issues"
+	},
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
