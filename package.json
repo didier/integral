@@ -1,6 +1,15 @@
 {
   "name": "integral-svelte",
-  "version": "0.0.3",
+  "version": "0.0.5",
+  "keywords": [
+    "svelte",
+    "accessibility",
+    "a11y",
+    "components",
+    "keyboard",
+    "sveltekit",
+    "typescript"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/didier/integral.git"
