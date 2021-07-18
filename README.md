@@ -1,6 +1,6 @@
 ![Integral banner](/static/cover.svg)
 
-# Integral
+# Integral (Work in progress!)
 
 _Unstyled, composable and accessible Svelte components_
 
